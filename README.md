@@ -1,3 +1,8 @@
 # Aplikacja-sterowana-mimik-twarzy
 
-12312412312312312312312
+Wykorzystane Technologie:
+- Python
+- OpenCV
+- dlib
+- PyGame
+- AnacondaNavigator
