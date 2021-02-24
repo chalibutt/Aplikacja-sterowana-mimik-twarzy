@@ -1,3 +1,5 @@
+Link to video: https://youtu.be/hM0u3lV5Fqc
+
 # Aplikacja-sterowana-mimik-twarzy
 
 Wykorzystane Technologie:
